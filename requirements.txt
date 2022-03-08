@@ -1,0 +1,13 @@
+click
+dnspython
+email-validator
+flask-wtf
+flask
+idna
+itsdangerous
+jinja2
+markupsafe
+python-dotenv
+uwsgi
+werkzeug
+wtforms
